@@ -8,7 +8,8 @@
               "app",
               "events",
               "event",
-              "events-app"
+              "events-app",
+              "nav"
             ],
             "camelCase"
         ],
@@ -17,6 +18,7 @@
             "element",
             [
               "app",
+              "nav",
               "events",
               "event",
               "events-app"
